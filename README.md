@@ -1,8 +1,10 @@
 # Assignment_05
 
+#Documentation: 
+
 [Codelab](https://codelabs-preview.appspot.com/?file_id=1Bg3zzbtiD4Ffq-TfRzreiTfZmB-cUurx5_3hZL0qs8k#0)
 
-**Problem Statement**
+#Problem Statement
 
 In this assignment, we aim to reassess the architecture initially designed in Assignment 3, focusing on two distinct approaches. First, we'll explore an open-source alternative, emphasizing the utilization of open-source components instead of the OpenAI stack. Secondly, we will delve into an enterprise approach, incorporating enterprise components as a substitute for the OpenAI stack. Both of these approaches involves creating detailed diagrams for preparation pipelines and inference aspects, clarifying the hosting and external service access choices. The key challenge lies in providing a detailed cost breakdown for both approaches, encompassing fixed and variable expenses, and analyzing how these costs differ from the original architecture in Assignment 3. The goal is to identify alternative technology stacks that align with open-source and enterprise principles, optimizing costs and improving overall application efficiency.
 
